@@ -1,6 +1,7 @@
 # PV Power Generation Forecasting Based on XGBoost and LSTM Models
 This repository is the official implementation of the following paper:
-[PV Power Generation Forecasting Based on XGBoost and LSTM Models]([https://arxiv.org/abs/2102.03161](https://ieeexplore.ieee.org/document/10325757)) \
+
+[PV Power Generation Forecasting Based on XGBoost and LSTM Models]([https://ieeexplore.ieee.org/document/10325757]) \
 Cinthia Rodriguez, Jesus López, Sergio Cantillo and Yuri López \
 Accepted to PEPQA 2023 (2023 IEEE Workshop on Power Electronics and Power Quality Applications) 
 
@@ -32,6 +33,6 @@ If you use any part of this code in your research or any engineering project, pl
 ## 8. Contacts
 
 Cinthia Rodriguez \
-[https://cinthiaswebsite.com]([https://sites.google.com/view/cinthiakrodriguez/home?authuser=1](https://sites.google.com/view/cinthiakrodriguez/home?authuser=1)https://sites.google.com/view/cinthiakrodriguez/home?authuser=1) \
+[https://cinthiaswebsite.com]([https://sites.google.com/view/cinthiakrodriguez/home?authuser=1] \
 cinthia.rdoriguez@uao.edu.co \
 cinthiakathalinar@gmail.com
