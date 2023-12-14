@@ -11,6 +11,14 @@ Accepted to PEPQA 2023 (2023 IEEE Workshop on Power Electronics and Power Qualit
 This code compares the performance of three models (SARIMA, XGBoost and LSTM) for PV power generation forecasting.
 
 
+## Slides
+[Slides: PV Power Generation Forecasting Based on XGBoost and LSTM Models](https://drive.google.com/file/d/1z5cvfF-zOaEiBiGs0V8iy50D7AOIL6Ij/view?usp=sharing)
+
+
+## Data Availability
+
+The data used in this project are the property of the University Autonomous of the West, Cali, CO.
+If you need them, please contact them.
 
 
 ## Citation
