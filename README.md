@@ -33,6 +33,6 @@ If you use any part of this code in your research or any engineering project, pl
 ## 8. Contacts
 
 Cinthia Rodriguez \
-[https://cinthiaswebsite.com]([https://sites.google.com/view/cinthiakrodriguez/home?authuser=1] \
-cinthia.rdoriguez@uao.edu.co \
+[https://cinthiaswebsite.com]([https://sites.google.com/view/cinthiakrodriguez/home?authuser=1]) \
+cinthia.roriguez@uao.edu.co \
 cinthiakathalinar@gmail.com
